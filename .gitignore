@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# IDEs / Sistema Operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de pruebas
+results/_test_*
